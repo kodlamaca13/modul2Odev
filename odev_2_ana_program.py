@@ -1,7 +1,7 @@
 import odev_2_modul
 
 """
-ogrenci = odev_2_modul.Ogrenci("ismail","yaldiz", 191220045)
+ogrenci = odev_2_modul.Ogrenci("abcdefg","abcd", 123456)
 ogrenci.ogrenci_yaz()
 """
 
